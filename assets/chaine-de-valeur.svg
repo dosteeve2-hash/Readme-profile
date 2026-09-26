@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img"
+     aria-label="The FORGE value chain: farm, factory, market, border, capital - and the software covering each link.">
+  <title>The FORGE value chain - from farm to capital</title>
+  <defs>
+    <linearGradient id="fond" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1628"/><stop offset="100%" stop-color="#101f38"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00BCD4" stop-opacity=".25"/>
+      <stop offset="50%" stop-color="#D4AF37" stop-opacity=".45"/>
+      <stop offset="100%" stop-color="#00BCD4" stop-opacity=".25"/>
+    </linearGradient>
+    <radialGradient id="halo"><stop offset="0%" stop-color="#D4AF37" stop-opacity=".9"/><stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/></radialGradient>
+    <style>
+      @keyframes file   { 0%{offset-distance:0%} 100%{offset-distance:100%} }
+      @keyframes glisse { 0%{transform:translateX(0)} 100%{transform:translateX(920px)} }
+      @keyframes pulse  { 0%,72%,100%{r:26;stroke-opacity:.35} 80%{r:33;stroke-opacity:1} }
+      @keyframes eclat  { 0%,72%,100%{opacity:.55} 80%{opacity:1} }
+      @keyframes flux   { to{stroke-dashoffset:-56} }
+      .jeton{animation:glisse 8s linear infinite}
+      .flux{stroke-dasharray:10 18;animation:flux 1.6s linear infinite}
+      .n1 circle.anneau{animation:pulse 8s linear infinite}
+      .n2 circle.anneau{animation:pulse 8s linear infinite;animation-delay:-6.4s}
+      .n3 circle.anneau{animation:pulse 8s linear infinite;animation-delay:-4.8s}
+      .n4 circle.anneau{animation:pulse 8s linear infinite;animation-delay:-3.2s}
+      .n5 circle.anneau{animation:pulse 8s linear infinite;animation-delay:-1.6s}
+      .n1 .ico{animation:eclat 8s linear infinite}
+      .n2 .ico{animation:eclat 8s linear infinite;animation-delay:-6.4s}
+      .n3 .ico{animation:eclat 8s linear infinite;animation-delay:-4.8s}
+      .n4 .ico{animation:eclat 8s linear infinite;animation-delay:-3.2s}
+      .n5 .ico{animation:eclat 8s linear infinite;animation-delay:-1.6s}
+    </style>
+  </defs>
+
+  <rect width="1200" height="340" rx="14" fill="url(#fond)"/>
+
+  <text x="600" y="42" text-anchor="middle" font-size="13" font-weight="700" fill="#00BCD4"
+        font-family="'Segoe UI',Roboto,Arial,sans-serif" letter-spacing="5">THE VALUE CHAIN</text>
+  <text x="600" y="72" text-anchor="middle" font-size="19" font-weight="600" fill="#e8eef7"
+        font-family="'Segoe UI',Roboto,Arial,sans-serif">Everyone wants to open the restaurant. Nobody asks who supplies the ingredients.</text>
+
+  <path d="M140 165h920" stroke="url(#rail)" stroke-width="3" stroke-linecap="round"/>
+  <path class="flux" d="M140 165h920" stroke="#D4AF37" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+
+  <g class="jeton" transform="translate(140,165)">
+    <circle r="22" fill="url(#halo)"/>
+    <circle r="7" fill="#D4AF37"/>
+  </g>
+
+  <g font-family="'Segoe UI',Roboto,Arial,sans-serif" text-anchor="middle">
+    <g class="n1" transform="translate(140,165)">
+      <circle class="anneau" r="26" fill="#0A1628" stroke="#00BCD4" stroke-width="2"/>
+      <text class="ico" y="8" font-size="22">🌾</text>
+      <text y="-46" font-size="15" font-weight="700" fill="#D4AF37">FARM</text>
+      <text y="62" font-size="12" fill="#9fb3cd">AgroTrack</text>
+      <text y="80" font-size="12" fill="#9fb3cd">LivestockOS</text>
+    </g>
+    <g class="n2" transform="translate(370,165)">
+      <circle class="anneau" r="26" fill="#0A1628" stroke="#00BCD4" stroke-width="2"/>
+      <text class="ico" y="8" font-size="22">⚙️</text>
+      <text y="-46" font-size="15" font-weight="700" fill="#D4AF37">FACTORY</text>
+      <text y="62" font-size="12" fill="#9fb3cd">TAAMA</text>
+      <text y="80" font-size="12" fill="#9fb3cd">MillTrack</text>
+    </g>
+    <g class="n3" transform="translate(600,165)">
+      <circle class="anneau" r="26" fill="#0A1628" stroke="#00BCD4" stroke-width="2"/>
+      <text class="ico" y="8" font-size="22">🏪</text>
+      <text y="-46" font-size="15" font-weight="700" fill="#D4AF37">MARKET</text>
+      <text y="62" font-size="12" fill="#9fb3cd">SUGU</text>
+      <text y="80" font-size="12" fill="#9fb3cd">ValueChain</text>
+    </g>
+    <g class="n4" transform="translate(830,165)">
+      <circle class="anneau" r="26" fill="#0A1628" stroke="#00BCD4" stroke-width="2"/>
+      <text class="ico" y="8" font-size="22">🚢</text>
+      <text y="-46" font-size="15" font-weight="700" fill="#D4AF37">BORDER</text>
+      <text y="62" font-size="12" fill="#9fb3cd">FORJA</text>
+    </g>
+    <g class="n5" transform="translate(1060,165)">
+      <circle class="anneau" r="26" fill="#0A1628" stroke="#00BCD4" stroke-width="2"/>
+      <text class="ico" y="8" font-size="22">💠</text>
+      <text y="-46" font-size="15" font-weight="700" fill="#D4AF37">CAPITAL</text>
+      <text y="62" font-size="12" fill="#9fb3cd">CompTrack</text>
+    </g>
+  </g>
+
+  <text x="600" y="312" text-anchor="middle" font-size="13" fill="#7f95b3"
+        font-family="'Segoe UI',Roboto,Arial,sans-serif">Phase 1 · 2024-2028 — the software.   Phase 2 · 2029-2035 — the industry.   Phase 3 · 2035-2050 — the continent.</text>
+</svg>

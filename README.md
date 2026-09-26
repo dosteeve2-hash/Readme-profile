@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070e1f,45:1f3054,100:f0a832&height=210&section=header&text=Steve%20Donald%20Compaor%C3%A9&fontSize=44&fontColor=f5f0e8&fontAlignY=34&desc=Builder%20%C2%B7%20FORGE%20Afrika%20%C2%B7%20Ouagadougou%20%E2%86%92%20Tokat&descSize=17&descAlignY=54&animation=fadeIn" alt="Steve Donald Compaoré — Builder, FORGE Afrika" />
+<img src="https://raw.githubusercontent.com/dosteeve2-hash/dosteeve2-hash/main/assets/hero.svg" alt="Steeve Donald Compaoré — I build the boring software African industry actually needs" width="100%" />
 
 <a href="https://github.com/dosteeve2-hash">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=2600&pause=800&color=F0A832&center=true&vCenter=true&width=820&height=80&lines=Hi+%F0%9F%91%8B+I'm+Donald;Computer+Science+student+in+Tokat%2C+T%C3%BCrkiye;Software+Engineering+%26+Cybersecurity;Building+FORGE+Afrika+%E2%80%94+from+Burkina+Faso;Welcome+to+my+universe+%E2%9C%A8" alt="Hi, I'm Donald — Computer Science student, building FORGE Afrika" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=27&duration=2600&pause=800&color=D4AF37&center=true&vCenter=true&width=820&height=78&lines=Farm+%E2%86%92+Factory+%E2%86%92+Market+%E2%86%92+Border+%E2%86%92+Capital;Offline-first%2C+because+the+network+is+not;Mobile-first%2C+because+the+laptop+is+not;Eleven+products.+One+value+chain.;Built+from+Burkina+Faso+%F0%9F%87%A7%F0%9F%87%AB" alt="Farm to Factory to Market to Border to Capital — built from Burkina Faso" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f0a832?style=for-the-badge&logo=vercel&logoColor=070e1f&labelColor=070e1f)](https://steeve-portfolio-mocha.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2dd4ff?style=for-the-badge&logo=linkedin&logoColor=070e1f&labelColor=070e1f)](https://www.linkedin.com/in/steeve-donald-compaoré-65ba13296)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-22d98a?style=for-the-badge&logo=gmail&logoColor=070e1f&labelColor=070e1f)](mailto:docompaore2@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=dosteeve2-hash&style=for-the-badge&color=f0a832&label=VISITORS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-D4AF37?style=for-the-badge&logo=vercel&logoColor=0A1628&labelColor=0A1628)](https://steeve-portfolio-mocha.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00BCD4?style=for-the-badge&logo=linkedin&logoColor=0A1628&labelColor=0A1628)](https://www.linkedin.com/in/steeve-donald-compaoré-65ba13296)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-22d98a?style=for-the-badge&logo=gmail&logoColor=0A1628&labelColor=0A1628)](mailto:docompaore2@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=dosteeve2-hash&style=for-the-badge&color=D4AF37&label=VISITORS)
 
 </div>
 
@@ -24,25 +24,15 @@
 Everyone wants to open the restaurant. Nobody asks who supplies the ingredients, who makes the
 packaging, who moves the goods, who clears them at the border.
 
-That's where I build.
+**That's where I build** — one product per link, and the links have to connect.
 
-```text
-                      ┌─────────────────────────────────────────────┐
-   Farm  ──────────▶  │  AgroTrack · LivestockOS · BurkinaCollect   │  production
-                      ├─────────────────────────────────────────────┤
-   Factory ────────▶  │  TAAMA · MillTrack · Indubot Afrika         │  processing
-                      ├─────────────────────────────────────────────┤
-   Market ─────────▶  │  ValueChain · SUGU · CompTrack              │  trade & books
-                      ├─────────────────────────────────────────────┤
-   Border ─────────▶  │  FORJA                                      │  export
-                      ├─────────────────────────────────────────────┤
-   Capital ────────▶  │  COMBINE                                    │  prototype → funding
-                      └─────────────────────────────────────────────┘
-```
+<div align="center">
 
-**Phase 1 (2024–2028)** — build the software.
-**Phase 2 (2029–2035)** — turn the software into industry.
-**Phase 3 (2035–2050)** — continental scale.
+<img src="https://raw.githubusercontent.com/dosteeve2-hash/dosteeve2-hash/main/assets/chaine-de-valeur.svg" alt="The FORGE value chain: farm, factory, market, border, capital — and the software covering each link" width="100%" />
+
+</div>
+
+**Phase 1 (2024–2028)** — build the software. &nbsp;·&nbsp; **Phase 2 (2029–2035)** — turn the software into industry. &nbsp;·&nbsp; **Phase 3 (2035–2050)** — continental scale.
 
 ---
 
@@ -52,19 +42,41 @@ That's where I build.
 
 | | Project | What it does | Status |
 |---|---|---|---|
-| 🐄 | **LivestockOS** | Sahelian herd management + a **verifiable herd passport** a microfinance can check | 🟢 [Live](https://livestock-os-ashy.vercel.app) |
-| 🌾 | **AgroTrack BF** | Offline-first ERP for agricultural cooperatives | 🟢 [Live](https://agrotrack-bf.vercel.app) |
-| 🏗️ | **TAAMA** | Industrial ERP — lot-to-lot traceability for processing SMEs | 🟢 [Live](https://taama.vercel.app) |
+| 🐄 | **LivestockOS** | Sahelian herd management + a herd passport built to be **verifiable by a lender** | 🟢 [Live](https://livestock-os-ashy.vercel.app) |
+| 🌾 | **AgroTrack BF** | Offline-first ERP for agricultural cooperatives | 🟡 [Deployed](https://agrotrack-bf.vercel.app) · awaiting config |
+| 🏗️ | **TAAMA** | Industrial ERP — lot-to-lot traceability for processing SMEs | 🟢 [Live](https://taama.vercel.app) · dashboard |
 | ⚙️ | **MillTrack** | Real-time production for mills and oil presses | 🟢 [Live](https://milltrack.vercel.app) |
 | 🔗 | **ValueChain Connect** | B2B marketplace: producers ↔ processors | 🟢 [Live](https://valuechain-connect.vercel.app) |
-| 📊 | **CompTrack** | SYSCOHADA-compliant accounting for African SMEs | 🟢 [Live](https://comptrack-chi.vercel.app) |
 | ☕ | **FORJA** | Coffee export — from the plot to the container | 🟢 [Live](https://forja.vercel.app) |
 | 📡 | **BurkinaCollect** | Offline-first field data collection | 🟢 [Live](https://burkinacollect.vercel.app) |
+| 📊 | **CompTrack** | SYSCOHADA-compliant accounting for African SMEs | 🟡 [Showcase live](https://comptrack-chi.vercel.app) · product in progress |
 | 💠 | **COMBINE** | From prototype to capital — verifiable dossiers, cohorts, portfolio | 🔨 Building |
 | 🤖 | **Indubot Afrika** | Intelligent industrial management | 🔨 Building |
 | 🏪 | **SUGU** | Informal retail, in FR / EN / Jula / Mooré | 🔨 Building |
 
 </div>
+
+> **Deployed is not the same as used.**
+> Phase 1 doesn't end when these are online — it ends when **three of them have a real
+> customer running their business on them.** That number is the only one I actually track,
+> and I'd rather show you the honest scoreboard than a wall of green badges.
+
+---
+
+## 🧭 What I've learned building these
+
+**Offline-first** — the network is 2G, intermittent and expensive. The app works without a
+connection *and syncs when it returns*. Most "offline-first" apps only do the first half.
+I shipped that bug myself, then fixed it.
+
+**Mobile-first** — my user has an entry-level Android, not a laptop. Every kilobyte of
+JavaScript is a decision.
+
+**XOF has no subunit** — the CFA franc has no cents. Two decimal places on an amount is
+a bug, not a style choice.
+
+**Robust beats elegant** — low battery, full storage, the connection dropping mid-form.
+Those aren't edge cases. Those are Tuesday.
 
 ---
 
@@ -88,26 +100,18 @@ That's where I build.
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dosteeve2-hash&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies" />
-
-</div>
-
----
-
 ## 📈 The numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dosteeve2-hash&show_icons=true&hide_border=true&bg_color=070e1f&title_color=f0a832&icon_color=2dd4ff&text_color=f5f0e8&ring_color=f0a832" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosteeve2-hash&layout=compact&hide_border=true&bg_color=070e1f&title_color=f0a832&text_color=f5f0e8&langs_count=8" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dosteeve2-hash&show_icons=true&hide_border=true&bg_color=0A1628&title_color=D4AF37&icon_color=00BCD4&text_color=e8eef7&ring_color=D4AF37" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosteeve2-hash&layout=compact&hide_border=true&bg_color=0A1628&title_color=D4AF37&text_color=e8eef7&langs_count=8" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com/?user=dosteeve2-hash&hide_border=true&background=070e1f&stroke=1f3054&ring=f0a832&fire=f0a832&currStreakLabel=f0a832&sideLabels=9ba8c4&dates=7488b0&currStreakNum=f5f0e8&sideNums=f5f0e8" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=dosteeve2-hash&hide_border=true&background=0A1628&stroke=1f3054&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=9fb3cd&dates=7488b0&currStreakNum=e8eef7&sideNums=e8eef7" alt="Contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dosteeve2-hash&bg_color=070e1f&color=f5f0e8&line=f0a832&point=2dd4ff&area=true&area_color=1f3054&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dosteeve2-hash&bg_color=0A1628&color=e8eef7&line=D4AF37&point=00BCD4&area=true&area_color=1f3054&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=dosteeve2-hash&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies" />
 
 </div>
 
@@ -132,8 +136,8 @@ That's where I build.
 
 ## 🎯 Right now
 
+- 🐄 Hunting the **first paying customer** for LivestockOS — the only metric Phase 1 counts
 - 🏗️ Finishing **COMBINE** — the software that takes an African prototype to funding
-- 🐄 Hunting the **first paying customer** for LivestockOS
 - 🔐 Going deeper on **application security** — OWASP Top 10, auth, data protection
 - 🎓 3rd year **Computer Science**, Tokat Gaziosmanpaşa University 🇹🇷
 - 🤝 Open to collaborate on anything that makes African industry actually work
@@ -146,6 +150,6 @@ That's where I build.
 
 **Ouagadougou 🇧🇫 → Tokat 🇹🇷**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0a832,55:1f3054,100:070e1f&height=130&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,55:1f3054,100:0A1628&height=130&section=footer" alt="" />
 
 </div>
