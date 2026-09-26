@@ -1,0 +1,44 @@
+name: Certifications
+
+# Régénère le bloc du README quand la liste change, et vérifie à chaque PR que
+# personne n'a édité le bloc à la main sans mettre à jour la source.
+on:
+  push:
+    branches: [main]
+    paths: ['data/certifications.json', 'scripts/certifications.mjs']
+  pull_request:
+    paths: ['data/certifications.json', 'scripts/certifications.mjs', 'README.md']
+  workflow_dispatch:
+
+concurrency:
+  group: certifications-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generer:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Vérifier (pull request)
+        if: github.event_name == 'pull_request'
+        run: node scripts/certifications.mjs --verifier
+
+      - name: Régénérer et committer (push)
+        if: github.event_name != 'pull_request'
+        run: |
+          node scripts/certifications.mjs
+          if git diff --quiet -- README.md; then
+            echo "README déjà à jour."
+            exit 0
+          fi
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Certifications : régénère le bloc du README'
+          git push

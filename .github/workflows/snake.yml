@@ -1,0 +1,38 @@
+name: Serpent
+
+# Dessine le serpent qui mange le graphe de contributions et le publie sur la
+# branche `output`. Le README y pointe en raw.githubusercontent — donc visible
+# seulement quand ce dépôt est public, ce qui est le but d'un README de profil.
+on:
+  schedule:
+    - cron: '17 */12 * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: serpent
+  cancel-in-progress: true
+
+jobs:
+  dessiner:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Générer les deux variantes
+        uses: Platane/snk@v3
+        id: serpent
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publier sur la branche output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
