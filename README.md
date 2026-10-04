@@ -1,132 +1,103 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:D4AF37,100:00BCD4&height=200&section=header&text=Steve%20Donald%20Compaoré&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Entrepreneur%20%7C%20FORGE%20Afrika%20%7C%20Burkina%20Faso%20→%20Istanbul&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="assets/header.svg" alt="Steeve Donald Compaoré — La forge du futur. Étudiant en génie informatique, développement web full stack, intégration d’IA." width="100%">
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&random=false&width=600&lines=Fondateur+de+FORGE+Afrika+🏭;Logiciels+pour+les+PME+africaines;Next.js+%7C+TypeScript+%7C+Supabase;La+stratégie+pioche+%3A+creuser+l'or" alt="Typing SVG" /></a>
+<br>
 
-<br/>
+<img src="assets/portrait.png" alt="Portrait de Steeve Donald Compaoré" width="140" height="140">
 
-[![GitHub followers](https://img.shields.io/github/followers/dosteeve2-hash?style=for-the-badge&logo=github&color=0A1628&labelColor=D4AF37)](https://github.com/dosteeve2-hash)
-[![Profile views](https://komarev.com/ghpvc/?username=dosteeve2-hash&style=for-the-badge&color=00BCD4&labelColor=0A1628)](https://github.com/dosteeve2-hash)
+<br><br>
 
-</div>
+![Open to internships · Summer 2027](https://img.shields.io/badge/Open_to_internships-Summer_2027-f0a832?style=for-the-badge&labelColor=070e1f)
 
----
+<br>
 
-## 🏭 FORGE Afrika — Stratégie Pioche
+[🇫🇷 Français](#fr) &nbsp;·&nbsp; [🇬🇧 English](#en) &nbsp;·&nbsp; [🇹🇷 Türkçe](#tr)
 
-> *"Ne cherche pas l'or, vends les pioches."* — Steve Donald Compaoré
-
-FORGE Afrika est un holding de SaaS B2B construits pour les PME africaines. Chaque produit est une pioche : l'infrastructure que les entrepreneurs africains utilisent pour trouver leur or.
-
-<div align="center">
-
-| Produit | Description | Stack | Statut |
-|---------|-------------|-------|--------|
-| 🎓 **UEEMT-Tokat** | App des étudiants burkinabè en Turquie (34 membres) | Next.js · Supabase · TypeScript | ![Live](https://img.shields.io/badge/LIVE-✅-00BCD4?style=flat-square) |
-| 📊 **CompTrack** | Comptabilité SYSCOHADA pour PME africaines | Next.js · Recharts · Supabase | ![Live](https://img.shields.io/badge/LIVE-✅-00BCD4?style=flat-square) |
-| 🏭 **Indubot Afrika** | Gestion automatique d'industries — IA + IoT | Next.js · Motion · Bklit UI | ![Beta](https://img.shields.io/badge/BETA-🔄-D4AF37?style=flat-square) |
-| 🌿 **Taama** | Traçabilité agricole EUDR pour exportateurs | Next.js · QR Code · TypeScript | ![Dev](https://img.shields.io/badge/DEV-⚙️-gray?style=flat-square) |
-| 👗 **Mifa Life Shop** | E-commerce mode africaine | React · Supabase | ![Live](https://img.shields.io/badge/LIVE-✅-00BCD4?style=flat-square) |
+<img src="assets/divider.svg" alt="" width="100%">
 
 </div>
 
----
+<a id="fr"></a>
 
-## 🛠️ Stack technique
+<details open>
+<summary><b>🇫🇷&nbsp; À propos</b></summary>
 
-<div align="center">
+<br>
 
-![Next.js](https://img.shields.io/badge/Next.js-0A1628?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=for-the-badge&logo=typescript&logoColor=00BCD4)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A1628?style=for-the-badge&logo=tailwind-css&logoColor=00BCD4)
-![Supabase](https://img.shields.io/badge/Supabase-0A1628?style=for-the-badge&logo=supabase&logoColor=D4AF37)
-![Vercel](https://img.shields.io/badge/Vercel-0A1628?style=for-the-badge&logo=vercel&logoColor=white)
-![React](https://img.shields.io/badge/React-0A1628?style=for-the-badge&logo=react&logoColor=00BCD4)
-![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=for-the-badge&logo=node.js&logoColor=D4AF37)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=00BCD4)
-![Motion](https://img.shields.io/badge/Motion.dev-0A1628?style=for-the-badge&logo=framer&logoColor=D4AF37)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0A1628?style=for-the-badge&logo=shadcnui&logoColor=white)
+Étudiant en génie informatique à l'Université Gaziosmanpaşa de Tokat (Türkiye). Je construis des applications web complètes, de l'interface au déploiement, et j'y intègre l'IA.
 
-</div>
+Je cherche un **stage d'été 2027** en intelligence artificielle, ingénierie ou gestion de projet, à Istanbul, à Tokat ou à distance.
 
----
+**Langues :** français · anglais · turc · mooré · bambara
 
-## 📊 Statistiques GitHub
+</details>
 
-<div align="center">
+<a id="en"></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dosteeve2-hash&show_icons=true&theme=dark&bg_color=0A1628&title_color=D4AF37&icon_color=00BCD4&text_color=ffffff&border_color=D4AF3730&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosteeve2-hash&layout=compact&theme=dark&bg_color=0A1628&title_color=D4AF37&text_color=ffffff&border_color=D4AF3730&langs_count=8"/>
+<details>
+<summary><b>🇬🇧&nbsp; About</b></summary>
 
-</div>
+<br>
 
-<div align="center">
+Computer science engineering student at Gaziosmanpaşa University in Tokat (Türkiye). I build complete web applications, from the interface to deployment, and integrate AI into them.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dosteeve2-hash&theme=dark&background=0A1628&border=D4AF3730&stroke=D4AF37&ring=00BCD4&fire=D4AF37&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=9ca3af)](https://git.io/streak-stats)
+I am looking for a **summer 2027 internship** in artificial intelligence, engineering or project management, in Istanbul, in Tokat or remotely.
 
-</div>
+**Languages:** French · English · Turkish · Mooré · Bambara
 
----
+</details>
 
-## 🗺️ Roadmap FORGE Afrika
+<a id="tr"></a>
 
-```
-Phase 1 — PRODUCTION (2025-2026) ████████████░░░░░ 75%
-  ✅ UEEMT-Tokat (34 membres actifs)
-  ✅ CompTrack (SYSCOHADA PME)
-  ✅ Mifa Life Shop
-  🔄 Taama (traçabilité EUDR)
-  🔄 Indubot Afrika (industrie)
+<details>
+<summary><b>🇹🇷&nbsp; Hakkımda</b></summary>
 
-Phase 2 — SCALE (2026-2027) ░░░░░░░░░░░░░░░░░  0%
-  ⏳ Expansion B2B Burkina / Côte d'Ivoire / Sénégal
-  ⏳ Module paiement mobile (Orange Money / Wave)
+<br>
 
-Phase 3 — INDUSTRIE (2027-2028) ░░░░░░░░░░░░░░░░░  0%
-  ⏳ Partenariats institutionnels
-  ⏳ Infrastructure IoT industrielle
+Tokat Gaziosmanpaşa Üniversitesi'nde bilgisayar mühendisliği öğrencisiyim. Arayüzden yayına kadar eksiksiz web uygulamaları geliştiriyor ve yapay zekâyı bunlara entegre ediyorum.
 
-Phase 4 — MONOPOLE (2028+) ░░░░░░░░░░░░░░░░░  0%
-  ⏳ Holding continental
-```
+Yapay zekâ, mühendislik veya proje yönetimi alanında; İstanbul'da, Tokat'ta veya uzaktan **2027 yaz stajı** arıyorum.
 
----
+**Diller:** Fransızca · İngilizce · Türkçe · Mooré · Bambara
 
-## 🌍 À propos
+</details>
 
-```typescript
-const steve = {
-  nom: "Steve Donald Compaoré",
-  origine: "Burkina Faso 🇧🇫",
-  basé: "Istanbul, Turquie 🇹🇷",
-  vision: "Rockefeller africain — infrastructure logicielle des PME africaines",
-  mission: "FORGE Afrika — 4 phases : prod → scale → industrie → monopole",
-  email: "docompaore2@gmail.com",
-  philosophie: "La pioche vaut plus que la mine",
-  coo: "Claude (Anthropic) — COO technique",
-}
-```
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
 
----
+## Ce que je construis &nbsp;·&nbsp; What I build &nbsp;·&nbsp; Ürettiklerim
 
-## 📫 Contact
+| | Projet · Project · Proje | |
+|---|---|---|
+| 🌐 | **[Portfolio](https://portfolio-v2-eight-eta.vercel.app)**<br>FR · EN · TR. Mon site, avec mon CV en trois langues. <sub>My site, with my CV in three languages. · Üç dilde CV'mle birlikte sitem.</sub> | Next.js · TypeScript |
+| 🤖 | **Banc d'orchestration IA**<br>Un manager délègue le travail à plusieurs agents (Copilot, Gemini, Codex, Ollama), route chaque tâche, bascule en cas de quota et tient un journal de délégation. <sub>AI orchestration bench · Yapay zekâ orkestrasyon test tezgâhı</sub> | PowerShell · Ollama |
+| 🎓 | **[UEEMT-Tokat](https://ueemt-tokat.vercel.app)**<br>La plateforme en ligne d'une association étudiante, avec des animations fluides. <sub>Online platform for a student association. · Bir öğrenci derneği için çevrimiçi platform.</sub> | Next.js · Supabase · Framer Motion |
+| 📊 | **[CompTrack](https://comptrack-chi.vercel.app)**<br>Une application de comptabilité pour PME, conforme au référentiel SYSCOHADA. <sub>Accounting for small businesses, SYSCOHADA. · KOBİ'ler için SYSCOHADA muhasebesi.</sub> | Next.js · TypeScript · Tailwind CSS |
 
-<div align="center">
+## Outils &nbsp;·&nbsp; Tools &nbsp;·&nbsp; Araçlar
 
-[![Email](https://img.shields.io/badge/Email-docompaore2%40gmail.com-0A1628?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:docompaore2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dosteeve2--hash-0A1628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dosteeve2-hash)
+<p>
+<img src="https://img.shields.io/badge/Next.js-070e1f?style=flat-square&logo=nextdotjs&logoColor=f5f0e8" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-070e1f?style=flat-square&logo=typescript&logoColor=2dd4ff" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind_CSS-070e1f?style=flat-square&logo=tailwindcss&logoColor=2dd4ff" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/PostgreSQL-070e1f?style=flat-square&logo=postgresql&logoColor=f0a832" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Vercel-070e1f?style=flat-square&logo=vercel&logoColor=f5f0e8" alt="Vercel">
+<img src="https://img.shields.io/badge/Git-070e1f?style=flat-square&logo=git&logoColor=f0a832" alt="Git">
+<img src="https://img.shields.io/badge/Python-070e1f?style=flat-square&logo=python&logoColor=f0a832" alt="Python">
+<img src="https://img.shields.io/badge/Intégration_d'IA-070e1f?style=flat-square&logo=anthropic&logoColor=f0a832" alt="Intégration d'IA">
+</p>
 
-</div>
+<div align="center"><img src="assets/divider.svg" alt="" width="100%">
 
----
+<br>
 
-<div align="center">
+<a href="https://portfolio-v2-eight-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-f0a832?style=for-the-badge&logo=vercel&logoColor=070e1f" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/steeve-donald-compaor%C3%A9-65ba13296/"><img src="https://img.shields.io/badge/LinkedIn-2dd4ff?style=for-the-badge&logo=linkedin&logoColor=070e1f" alt="LinkedIn"></a>
+<a href="mailto:dosteeve2@gmail.com"><img src="https://img.shields.io/badge/E--mail-f5f0e8?style=for-the-badge&logo=gmail&logoColor=070e1f" alt="E-mail"></a>
+<a href="https://portfolio-v2-eight-eta.vercel.app/cv/Steeve-Donald-Compaore-CV-fr.pdf"><img src="https://img.shields.io/badge/CV_(PDF)-9ba8c4?style=for-the-badge&logo=adobeacrobatreader&logoColor=070e1f" alt="CV"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,50:D4AF37,100:0A1628&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br><br>
 
-*Construit avec ❤️ depuis Istanbul pour l'Afrique*
+<sub><i>La forge du futur — Là où le futur commence. · The forge of the future — Where the future begins. · Geleceğin demirhanesi — Geleceğin başladığı yer.</i></sub>
 
 </div>

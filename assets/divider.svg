@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" width="1000" height="28" role="presentation" aria-hidden="true">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#f0a832" stop-opacity="0"/><stop offset=".5" stop-color="#f0a832"/><stop offset="1" stop-color="#f0a832" stop-opacity="0"/></linearGradient>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff3d6" stop-opacity="0"/><stop offset=".5" stop-color="#fff3d6"/><stop offset="1" stop-color="#fff3d6" stop-opacity="0"/></linearGradient>
+<filter id="b" x="-10%" y="-600%" width="120%" height="1300%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect x="40" y="12" width="920" height="4" fill="url(#g)" filter="url(#b)" opacity=".5"><animate attributeName="opacity" values=".3;.7;.3" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="40" y="13" width="920" height="2" rx="1" fill="url(#g)"/>
+<rect x="-160" y="13" width="160" height="2" fill="url(#s)" opacity=".9"><animate attributeName="x" values="40;800" dur="4.5s" repeatCount="indefinite"/></rect>
+<path d="M500 5 L509 14 L500 23 L491 14 Z" fill="#070e1f" stroke="#f0a832" stroke-width="1.5"><animate attributeName="fill" values="#070e1f;#f0a832;#070e1f" dur="4s" repeatCount="indefinite"/></path>
+</svg>
